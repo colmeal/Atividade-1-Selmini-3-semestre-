@@ -2,6 +2,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//EX2
+
 public class AnalisarSoma {
     public static boolean verifica(ArrayList<Integer> numeros) {
         for (int i = 2; i < numeros.size(); i++) {

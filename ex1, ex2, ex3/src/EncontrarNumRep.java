@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//EX1
+
 public class EncontrarNumRep {
     public static int encontrar(ArrayList<Integer> numeros) {
         for (int i = 0; i < numeros.size(); i++) {
